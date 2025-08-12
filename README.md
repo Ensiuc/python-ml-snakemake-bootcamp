@@ -29,6 +29,7 @@ python-ml-snakemake-bootcamp/
 - Practice scripts to clean and plot CSV data
 
 > 🔗 Resource: [Automate the Boring Stuff](https://automatetheboringstuff.com/)
+> 🎥 Video: [Python Full Course for Beginners (freeCodeCamp)](https://www.youtube.com/watch?v=rfscVS0vtbw)
 
 ### ✅ Week 3–4: Data Analysis + GitHub
 **Folder:** `week03-04_data_pandas_git`
@@ -37,6 +38,8 @@ python-ml-snakemake-bootcamp/
 - Git: init, commit, push, branching
 
 > 🔗 Resource: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+> 🎥 Video: [Data Analysis with Pandas (freeCodeCamp)](https://www.youtube.com/watch?v=vmEHCJofslg)
+> 🎥 Video: [Git & GitHub Crash Course (Traversy Media)](https://www.youtube.com/watch?v=SWYqp7iY_Tc)
 
 ### ✅ Week 5–6: Machine Learning with scikit-learn
 **Folder:** `week05-06_machine_learning`
@@ -46,6 +49,8 @@ python-ml-snakemake-bootcamp/
 - Practice with datasets from UCI or Kaggle
 
 > 🔗 Resource: [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course)
+> 🔗 Resource: [scikit-learn tutorials](https://scikit-learn.org/stable/tutorial/index.html)
+> 🎥 Video: [Machine Learning Full Course - 6 Hours (freeCodeCamp)](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
 
 ### ✅ Week 7: Snakemake & Pipelines
 **Folder:** `week07_snakemake_pipeline`
@@ -77,6 +82,7 @@ rule plot:
 - Track versions using GitHub
 
 > 🔗 Resource: [Snakemake Tutorial](https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html)
+> 🎥 Video: [Snakemake Workflow Engine Crash Course](https://www.youtube.com/watch?v=2u0r2fA9Xh4)
 
 ### ✅ Week 8: (Optional) Deep Learning with PyTorch
 **Folder:** `week08_deep_learning_optional`
@@ -85,6 +91,7 @@ rule plot:
 - Build a digit classifier with MNIST
 
 > 🔗 Resource: [PyTorch 60-Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
+> 🎥 Video: [Deep Learning with PyTorch (freeCodeCamp)](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
 
 ---
 
